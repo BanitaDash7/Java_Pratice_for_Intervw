@@ -1,6 +1,5 @@
-package Triangle;
+package Triangle_pattern;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Left_tringl {

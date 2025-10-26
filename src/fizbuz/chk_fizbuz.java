@@ -22,7 +22,7 @@ import java.util.Scanner;
                 }
                 else {
                     System.out.println("print i =" + i);
-
+//sc.close();
             }
         }}
 
