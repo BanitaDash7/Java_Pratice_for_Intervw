@@ -1,0 +1,21 @@
+package Task_17th_oct;
+
+import java.util.Scanner;
+
+public class Smallest_no {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int a,b;
+        System.out.println("enter a value");
+        a=sc.nextInt();
+        System.out.println("enter b value");
+        b= sc.nextInt();
+        if (a<b){
+            System.out.println(a+ "is smllst");
+        }
+        else{
+            System.out.println(b+ "is smallest");
+        }
+
+    }
+}
