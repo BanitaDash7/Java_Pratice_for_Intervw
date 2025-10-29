@@ -1,8 +1,8 @@
-package Task_23;
+package Task_24;
 
 import java.util.Scanner;
 
-public class Pallendrome {
+public class Year_month_day {
     public static void main(String[] args) {
         Scanner sc=new Scanner (System.in);
         System.out.println("enter a no.");
